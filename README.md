@@ -1,4 +1,4 @@
-# MBTIproject
+# MBTI project
 
 FE01. [메인페이지 만들기](https://sincerity.tistory.com/350)
 
